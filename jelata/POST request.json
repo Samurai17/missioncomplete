@@ -1,0 +1,13 @@
+POST request
+
+localhost:7000/api/users
+
+body: {
+  id: "",
+  firstname: "",
+  lastname: "",
+  email: ""
+  pwd: ""
+}
+
+req.users = "1"
